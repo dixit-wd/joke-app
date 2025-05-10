@@ -1,0 +1,504 @@
+{
+  "jokes": [
+    {
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "3",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "4",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "5",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "6",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "7",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "8",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "9",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "10",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "11",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "12",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "13",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "14",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "15",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "16",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "17",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "18",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "19",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "20",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "21",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "22",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "23",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "24",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "25",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "26",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "27",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "28",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "29",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "30",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "31",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "32",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "33",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "34",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "35",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "36",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "37",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "38",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "39",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "40",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "41",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "42",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "43",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "44",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "45",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "46",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "47",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "48",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "49",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "50",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "51",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "52",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "53",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "54",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "55",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "56",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "57",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "58",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "59",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "60",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "61",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "62",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "63",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "64",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "65",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "66",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "67",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "68",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "69",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "70",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "71",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "72",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "73",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "74",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "75",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "76",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "77",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "78",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "79",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "80",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "81",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "82",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "83",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "84",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "85",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "86",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "87",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "88",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "89",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "90",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": "91",
+      "title": "Trust atoms?",
+      "punchline": "They make up everything!"
+    },
+    {
+      "id": "92",
+      "title": "Scarecrow award?",
+      "punchline": "He was outstanding in his field!"
+    },
+    {
+      "id": "93",
+      "title": "Fake spaghetti?",
+      "punchline": "An impasta!"
+    },
+    {
+      "id": "94",
+      "title": "Math book sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": "95",
+      "title": "Bike can't stand?",
+      "punchline": "It's two-tired."
+    },
+    {
+      "id": "96",
+      "title": "Tomato blushed?",
+      "punchline": "It saw the salad dressing."
+    },
+    {
+      "id": "97",
+      "title": "Cookie go to doctor?",
+      "punchline": "It felt crummy."
+    },
+    {
+      "id": "98",
+      "title": "Coffee file police?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "99",
+      "title": "Pencil broke?",
+      "punchline": "It's pointless."
+    },
+    {
+      "id": "100",
+      "title": "Stadium hot?",
+      "punchline": "All the fans left."
+    }
+  ]
+}
